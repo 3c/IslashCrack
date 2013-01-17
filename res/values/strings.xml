@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Islash修改器</string>
+    <string name="title_activity_main">islash修改器</string>
+    <string name="crack">一键修改</string>
+    <string name="crack_processing">修改中，请稍候。。。</string>
+    <string name="crack_success">修改成功\n进入islash查看惊喜</string>
+    <string name="crack_fail">修改失败\n请按照说明重试，若仍然失败，联系作者QQ:408366772</string>
+    <string name="text_prompt">1.确保手机已经root\n2.已安装并运行一次islash\n3.在运行破解器时一定要关掉islash\n4.原则上修改后不会影响到原游戏的进度\n\n 点击一键修改后，道具数均为999，金币数为99999（某些版本没有金币）\n\n提示：如果因使用该修改器造成原游戏进度丢失，无法正常游戏等一系列问题，请严厉谴责作者，我将深表遗憾</string>
+
+    <!-- error -->
+    <string name="error_no_file">未找到islash，请安装并运行一次</string>
+    <string name="error_no_root">尚未root,无法运行该程序</string>
+
+</resources>
